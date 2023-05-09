@@ -1,0 +1,144 @@
+/*fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap");
+/*Akhir fonts*/
+.jumbotron {
+  padding-top: 7rem;
+}
+.navx {
+  font-size: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: rgb(248, 242, 242);
+  margin: 40px 6px 40px 20px;
+  text-decoration: none;
+}
+
+.navx:hover {
+  color: #0c0d0f;
+}
+.work-j {
+  margin-top: 45px;
+  margin-bottom: 0px;
+}
+.played {
+  padding: 5px 5px 5px 5px;
+}
+.bottom-b {
+  text-decoration: none;
+}
+.img {
+  margin-top: 0px;
+  margin-left: 40px;
+  background-color: rgb(12, 12, 12);
+}
+.profile {
+  margin-top: 60px;
+  padding-left: 5px;
+}
+.savara {
+  color: rgba(231, 79, 79, 0.87);
+  font-size: 8vmin;
+  font-family: Poppins;
+}
+.top {
+  color: rgb(59, 59, 59);
+  font-size: 8vmin;
+  font-family: Poppins;
+  margin-top: 9px;
+}
+.display-4 {
+  font-family: Poppins;
+  color: rgb(92, 92, 92);
+  font-size: 60px;
+}
+.lead {
+  font-family: Gluten;
+  color: rgb(85, 85, 85);
+}
+.about-b {
+  margin-top: 16px;
+  font-size: 21px;
+  color: #2c2c2c;
+}
+
+h2 {
+  color: hsl(0, 0%, 8%);
+}
+.kccb {
+  padding-top: 20px;
+}
+.title-bbbb {
+  margin-top: 20px;
+}
+#about {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 115px;
+  background-color: WHITE;
+}
+.about {
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 9px;
+}
+#hobby {
+  padding-top: 20px;
+  background-color: #121213;
+}
+.about-about {
+  border: solid 2px rgb(10, 10, 10);
+  background-color: rgb(68, 66, 66);
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-left: 9px;
+  color: rgb(15, 15, 15);
+  height: 40px;
+  width: 120px;
+  box-shadow: 0px 1px 1px 0px rgb(14, 14, 14);
+}
+.about-about:hover {
+  background-color: rgb(250,240,230);
+}
+.lbl {
+  margin-top: 10px;
+  color: black;
+}
+.card-b {
+  color: rgb(6, 6, 6);
+}
+.work {
+  margin-top: 55px;
+}
+#work {
+  margin-bottom: 225px;
+}
+.card-g {
+  padding-top: 30px;
+}
+.ftr {
+  color: rgb(252, 245, 245);
+  text-decoration: none;
+}
+footer {
+  margin-top: 35px;
+  background-color: rgb(10, 10, 10);
+}
+.ftr:hover {
+  color: white;
+  font-size: 13px;
+}
+.ftrt {
+  font-size: 13px;
+}
+.image-n {
+  margin-top: 10px;
+}
+
+.pgc {
+  font-family: Patua One;
+}
